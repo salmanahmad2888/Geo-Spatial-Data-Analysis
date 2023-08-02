@@ -80,6 +80,8 @@ target/
 *.ipynb
 research/trials.ipynb
 research/.ipynb_checkpoints
+research\
+research\trials.ipynb
 
 # IPython
 profile_default/
