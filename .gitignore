@@ -79,7 +79,7 @@ target/
 .ipynb_checkpoints
 *.ipynb
 research/trials.ipynb
-research/
+research/.ipynb_checkpoints
 
 # IPython
 profile_default/
