@@ -82,6 +82,7 @@ target/
 **/*.ipynb*
 ipython_config.py
 **/*.ipynb_checkpoints/*
+research\trials.ipynb
 
 
 # IPython
