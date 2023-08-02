@@ -1,3 +1,6 @@
 # Geo-Spatial-Data-Analysis
 
-# Project Start
+## Prerequisites
+```
+check requirements.txt for required python packages
+```
